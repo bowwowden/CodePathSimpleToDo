@@ -3,11 +3,11 @@ First push. SimpleToDo app with UI defined in XML. Created for CodePath Android 
 
 # Project 1 - *SimpleToDo app*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**SimpleToDo App** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **William Bowden**
 
-Time spent: **`** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
